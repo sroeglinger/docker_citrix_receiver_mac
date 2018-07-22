@@ -5,6 +5,7 @@ If you have to use the Citrix Receiver but want to keep your system clean, you c
 
 ## Requirements
 
+* [Docker for Mac](https://www.docker.com/docker-mac)
 * [XQuartz](https://www.xquartz.org)
 
 XQuartz has to be configured such that connections from network clients are allowed.
