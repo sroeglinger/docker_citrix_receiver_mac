@@ -31,6 +31,10 @@ XQuartz has to be configured such that connections from network clients are allo
 * Testet with: icaclient_13.10.0.20_amd64.deb
     * Crashes sometimes with error: `shmdt: Invalid argument`
 
+* Testet with: icaclient_13.9.1.6_amd64.deb
+    * stable
+
+
 ## License
 
 [MIT](./LICENSE.txt)
