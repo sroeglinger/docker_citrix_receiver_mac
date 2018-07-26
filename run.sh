@@ -1,5 +1,5 @@
 # /bin/bash
-/Applications/Utilities/XQuartz.app/Contents/MacOS/X11 &
+open -a xQuartz
 
 IPADDR=$(ipconfig getifaddr en0)
 
