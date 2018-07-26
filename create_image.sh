@@ -2,4 +2,4 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
-docker build -t citrix:v1 .
+docker build -t citrix:icaclient_13.9.1.6_amd64 .
