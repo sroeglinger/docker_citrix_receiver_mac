@@ -1,4 +1,4 @@
-# /bin/bash
+#! /bin/bash
 open -a xQuartz
 
 IPADDR=$(ipconfig getifaddr en0)

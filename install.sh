@@ -1,4 +1,4 @@
-# /bin/bash
+#! /bin/bash
 apt-get update
 
 dpkg -i /tmp/icaclient.deb 2> /dev/null
